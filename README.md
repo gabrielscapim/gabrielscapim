@@ -26,3 +26,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=java,spring,js,ts,mysql,nodejs,docker,html,css,bootstrap,react,git,github,express,sequelize,redux,linux,jest" />
   </a>
 </p>
+
+### Contact me
+- <a href="https://off-grid-calculator.vercel.app/" target="_blank">Linkedin</a>
+- scapimgabriel@gmail.com
