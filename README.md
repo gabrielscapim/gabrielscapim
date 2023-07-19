@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - I have a Bachelor's degree in Electrical Engineering from the State University of Maringá.
-- I am currently studying Web Development at Trybe and pursuing a Master's degree in Computer Science at the State University of Maringá.
+- I'm currently studying Web Development at Trybe.
+- I'm pursuing a Master's degree in Computer Science at the State University of Maringá.
 
 ### Technologies & Tools
 
