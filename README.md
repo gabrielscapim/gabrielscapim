@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </p>
 
 ### Contact me
-- <a href="https://off-grid-calculator.vercel.app/" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/gabrielscapim/" target="blank">Linkedin</a>
 - scapimgabriel@gmail.com
