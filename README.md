@@ -1,7 +1,6 @@
 ## Hello! I'm Gabriel.
 
 - I have a Bachelor's degree in Electrical Engineering from the State University of Maringá.
-- I'm currently studying Web Development at Trybe.
 - I'm pursuing a Master's degree in Computer Science at the State University of Maringá.
 
 ### Technologies & Tools
